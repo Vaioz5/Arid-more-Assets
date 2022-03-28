@@ -1,0 +1,29 @@
+GUID 50470e45db084b5aaca6bd2991ce2d42
+Type Storage
+Useable Barricade
+Build Storage
+ID 60022
+
+Size_X 1
+Size_Y 1
+Size_Z 0.24
+
+Health 200
+Range 4
+Radius 0.01
+Offset 0.03
+
+Storage_X 1
+Storage_Y 2
+Display
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59000
+Blueprint_0_Supply_0_Amount 5
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27

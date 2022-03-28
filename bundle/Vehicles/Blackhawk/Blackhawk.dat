@@ -1,0 +1,67 @@
+GUID c245cfffd6614824b07bf468b86b8516
+Type Vehicle
+Rarity Legendary
+ID 31201
+
+Speed_Min -13
+Speed_Max 33
+
+Steer_Min 14
+Steer_Max 44
+
+Brake 64
+Lift 2
+
+Fuel_Min 3000
+Fuel_Max 4000
+Fuel 9000
+
+Health_Min 1000
+Health_Max 1500
+Health 2000
+
+Exit 3
+
+Cam_Follow_Distance 10
+
+LockMouse
+Engine Helicopter
+Sleds
+
+Trunk_Storage_X 8
+Trunk_Storage_Y 16
+
+Drops_Table_ID 59015
+Drops_Min 8
+Drops_Max 12
+Tires_Invulnerable
+
+Pitch_Drive 0.01
+
+Fuel_Burn_Rate 11
+
+Valid_Speed_Horizontal 300
+
+Turrets 2
+Turret_0_Seat_Index 2
+Turret_0_Item_ID 30013
+Turret_0_Yaw_Min -90
+Turret_0_Yaw_Max 45
+Turret_0_Pitch_Min 60
+Turret_0_Pitch_Max 120
+Turret_1_Seat_Index 1
+Turret_1_Item_ID 30013
+Turret_1_Yaw_Min -45
+Turret_1_Yaw_Max 90
+Turret_1_Pitch_Min 60
+Turret_1_Pitch_Max 120
+
+BatteryMode_Headlights Charging
+BatteryMode_Sirens Charging
+Can_Steal_Battery False
+BatteryMode_Driving Charging
+BatteryMode_Empty Charging
+
+Explosion 20
+Exclude_From_Master_Bundle
+Asset_Bundle_Version 3

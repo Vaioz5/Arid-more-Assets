@@ -1,0 +1,38 @@
+GUID 96894378794847eebd30623cb2b4044d
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Torch
+ID 60051
+
+Asset_Bundle_Version 2
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Health 180
+Range 4
+Radius 0.6
+Offset 0.3
+
+Explosion 19
+Vulnerable
+
+Blueprints 2
+Blueprint_0_Type Utilities
+Blueprint_0_Supply_0_ID 60050
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Build 27
+
+Blueprint_1_Type Utilities
+Blueprint_1_Supplies 3
+Blueprint_1_Supply_0_ID 60014
+Blueprint_1_Supply_0_Amount 1
+Blueprint_1_Supply_1_ID 59001
+Blueprint_1_Supply_1_Amount 5
+Blueprint_1_Supply_2_ID 59010
+Blueprint_1_Supply_2_Amount 2
+Blueprint_1_Tool 59003
+Blueprint_1_Build 27
+Exclude_From_Master_Bundle

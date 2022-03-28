@@ -1,0 +1,27 @@
+GUID 0c09b8da3719497ea4978ebe414950e1
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Door
+ID 60031
+
+Size_X 1
+Size_Y 1
+Size_Z 0.29
+
+Health 350
+Range 4
+Radius 1
+Offset 1.4
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Barricade
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59202
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 59241
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

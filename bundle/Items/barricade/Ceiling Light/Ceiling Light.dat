@@ -1,0 +1,28 @@
+GUID f02fd021380c4bb49ff8486338613589
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Spot
+ID 58495
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 300
+Range 4
+Radius 0.5
+Offset 1
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59585
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59002
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Supply_2_ID 59016
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Build 27

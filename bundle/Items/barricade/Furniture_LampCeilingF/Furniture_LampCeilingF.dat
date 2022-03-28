@@ -1,0 +1,33 @@
+GUID 7b1ef3cd0ec546a7a924450ad10983c4
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Spot
+ID 60036
+
+Size_X 2
+Size_Y 2
+Size_Z 0.55
+
+Health 300
+Range 4
+Radius 0.01
+Offset 3.6
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 59009
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Supply_1_ID 59010
+Blueprint_0_Supply_1_Amount 4
+Blueprint_0_Supply_2_ID 59016
+Blueprint_0_Supply_2_Amount 3
+Blueprint_0_Supply_3_ID 59585
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

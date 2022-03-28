@@ -1,0 +1,28 @@
+GUID bb396ca58f724ca9b641cd136d95fa5c
+Type Food
+Useable Consumeable
+ID 60003
+
+Size_X 1
+Size_Y 1
+Size_Z 0.36
+
+Food 65
+Water 55
+Disinfectant 5
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 59234
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59243
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 59229
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 59049
+Blueprint_0_Supply_3_Amount 1
+Blueprint_0_Tool 59005
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

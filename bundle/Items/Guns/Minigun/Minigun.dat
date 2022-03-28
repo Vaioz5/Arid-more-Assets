@@ -1,0 +1,58 @@
+GUID d76110ce7ffe4db6bd4a87daeaab6185
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Primary
+ID 30013
+
+Sight 1301
+Magazine 18994
+
+Size_X 1
+Size_Y 1
+Size_Z 1
+
+Ammo_Min 40
+Ammo_Max 120
+
+Auto
+
+Caliber 24103
+
+Range 1
+Firerate 6
+Action Trigger
+Ammo_Per_Shot 1
+
+Player_Damage 40
+Player_Leg_Multiplier 0.9
+Player_Arm_Multiplier 0.9
+Player_Spine_Multiplier 2.7
+Player_Skull_Multiplier 1.8
+
+Zombie_Damage 60
+Zombie_Leg_Multiplier 0.7
+Zombie_Arm_Multiplier 0.9
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.9
+
+Animal_Damage 50
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 70
+Structure_Damage 60
+Vehicle_Damage 7
+Resource_Damage 40
+Object_Damage 40
+
+Spread_Aim 0.2
+Spread_Hip 0.025
+
+Muzzle 4
+
+Reload_Time 5
+Turret
+Bypass_Hash_Verification
+Exclude_From_Master_Bundle

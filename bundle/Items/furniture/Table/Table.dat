@@ -1,0 +1,24 @@
+GUID ccf2ff2104ad435d8c86ef07ca998adb
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Barricade
+ID 25824
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 350
+Range 4
+Radius 0.5
+Offset 0.75
+
+Explosion 29
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59202
+Blueprint_0_Supply_0_Amount 14
+Blueprint_0_Build 27

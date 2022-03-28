@@ -1,0 +1,33 @@
+GUID 805c2fe87f4f42c2a1d97da75b8ea840
+
+Type Barricade
+Useable Barricade
+Build Stereo
+ID 60048
+
+Size_X 2
+Size_Y 2
+Size_Z 0.45
+
+Health 50
+Range 4
+Radius 0.2
+Offset 0.25
+
+Explosion 36
+Vulnerable
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 59828
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59016
+Blueprint_0_Supply_1_Amount 3
+Blueprint_0_Supply_2_ID 59010
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Supply_3_ID 59202
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle

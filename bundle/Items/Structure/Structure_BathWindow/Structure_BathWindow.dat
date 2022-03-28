@@ -1,0 +1,26 @@
+GUID 788e354c588543fb8add6798b881bf39
+Type Structure
+Rarity Rare
+Useable Structure
+Construct Wall
+ID 60007
+
+Size_X 2
+Size_Y 1
+Size_Z 0.3
+
+Health 800
+Range 8
+
+Explosion 19
+
+Blueprints 1
+Blueprint_0_Type Structure
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59456
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59649
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

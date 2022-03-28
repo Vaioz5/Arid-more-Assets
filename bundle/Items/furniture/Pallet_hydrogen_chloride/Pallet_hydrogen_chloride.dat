@@ -1,0 +1,32 @@
+GUID c11162c7ddf448068dff950d83d1b531
+Type Storage
+Rarity Epic
+Useable Barricade
+Build Storage
+ID 60052
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Health 600
+Range 4
+Radius 0.5
+Offset 0.25
+
+Storage_X 12
+Storage_Y 20
+
+Locked
+
+Explosion 36
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59519
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Supply_1_ID 59202
+Blueprint_0_Supply_1_Amount 12
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+Exclude_From_Master_Bundle

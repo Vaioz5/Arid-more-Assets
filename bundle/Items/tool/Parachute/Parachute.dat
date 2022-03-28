@@ -1,0 +1,26 @@
+GUID a3c6492edabf417780fd522a583ff903
+Type Cloud
+Rarity Uncommon
+Useable Cloud
+ID 25830
+
+Size_X 2
+Size_Y 2
+Size_Z 3
+Use_Auto_Icon_Measurements false
+
+Gravity 0.25
+
+Blueprints 1
+Blueprint_0_Type Apparel
+Blueprint_0_Supplies 4
+Blueprint_0_Supply_0_ID 59564
+Blueprint_0_Supply_0_Amount 3
+Blueprint_0_Supply_1_ID 59009
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 59010
+Blueprint_0_Supply_2_Amount 1
+Blueprint_0_Supply_3_ID 59002
+Blueprint_0_Supply_3_Amount 2
+Blueprint_0_Product 25830
+Blueprint_0_Build 32

@@ -1,0 +1,27 @@
+GUID f4559748309541308b63329244ca1f4b
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Cage
+ID 58496
+
+Size_X 2
+Size_Y 1
+Size_Z 0.5
+
+Health 300
+Range 4
+Offset 0.15
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59008
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59011
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 59010
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Build 27

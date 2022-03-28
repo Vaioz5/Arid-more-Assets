@@ -1,0 +1,31 @@
+GUID 88be5b32bc78421fbe1192d1f116facf
+Type Barricade
+Rarity Rare
+Useable Barricade
+Build Spot
+ID 60010
+
+Size_X 3
+Size_Y 2
+Size_Z 0.45
+
+Health 400
+Range 4
+Radius 0.5
+Offset 0.74
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59440
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 59009
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 59010
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+
+Asset_Bundle_Version 2

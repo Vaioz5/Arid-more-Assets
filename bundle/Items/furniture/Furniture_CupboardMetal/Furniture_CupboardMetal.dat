@@ -1,0 +1,34 @@
+GUID 97adbfe7abfa4876814e8cdb9d2b6711
+Type Storage
+Rarity Rare
+Useable Barricade
+Build Storage
+ID 60024
+
+Size_X 2
+Size_Y 2
+Size_Z 0.4
+
+Health 600
+Range 4
+Radius 0.25
+Offset 1.3
+
+Storage_X 6
+Storage_Y 7
+
+Locked
+
+Explosion 36
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59009
+Blueprint_0_Supply_0_Amount 4
+Blueprint_0_Supply_1_ID 59010
+Blueprint_0_Supply_1_Amount 2
+Blueprint_0_Supply_2_ID 59571
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27

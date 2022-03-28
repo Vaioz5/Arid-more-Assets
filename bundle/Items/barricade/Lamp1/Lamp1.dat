@@ -1,0 +1,34 @@
+GUID 59587ffb682d425d887254367c4503cf
+Type Barricade
+Rarity Uncommon
+Useable Barricade
+Build Campfire
+ID 60050
+
+Asset_Bundle_Version 2
+
+Size_X 1
+Size_Y 2
+Size_Z 0.4
+
+Health 150
+Range 4
+Radius 0.6
+Offset 0.7
+
+Explosion 19
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Utilities
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 60014
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59001
+Blueprint_0_Supply_1_Amount 5
+Blueprint_0_Supply_2_ID 59010
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Tool 59003
+Blueprint_0_Build 27
+
+Exclude_From_Master_Bundle

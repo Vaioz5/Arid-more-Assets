@@ -1,0 +1,24 @@
+GUID 1f992c4db51c46bda6e6c465f6ffad1b
+Type Barricade
+Useable Barricade
+Build Barricade
+ID 60019
+
+Size_X 2
+Size_Y 2
+Size_Z 0.35
+
+Health 200
+Range 4
+Radius 0.3
+Offset 0.74
+
+Explosion 28
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59202
+Blueprint_0_Supply_0_Amount 8
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

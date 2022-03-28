@@ -1,0 +1,22 @@
+GUID 0eed91028ee446b6b9840721ac7aa4a2
+Type Water
+Rarity Common
+Useable Consumeable
+ID 55050
+
+Size_X 1
+Size_Y 2
+Size_Z 0.6
+
+Water 10
+Virus 35
+
+Blueprints 1
+Blueprint_0_Type Supply
+Blueprint_0_Supplies 2
+Blueprint_0_Supply_0_ID 59139
+Blueprint_0_Supply_0_Amount 1
+Blueprint_0_Supply_1_ID 59553
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Tool 59035
+Blueprint_0_Build 27

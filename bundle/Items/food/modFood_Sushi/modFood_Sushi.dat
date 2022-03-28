@@ -1,0 +1,19 @@
+GUID e81338d92fe4461998f9abd3189eb60a
+Type Food
+Rarity Rare
+Useable Consumeable
+ID 55166
+
+Size_X 2
+Size_Y 1
+Size_Z 0.4
+
+Health 25
+Food 55
+Energy 25
+
+Quest_Rewards 1
+Quest_Reward_0_Type Item
+Quest_Reward_0_ID 59013
+Quest_Reward_0_Amount 1
+
