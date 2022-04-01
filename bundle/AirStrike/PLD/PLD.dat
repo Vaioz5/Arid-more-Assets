@@ -1,0 +1,57 @@
+GUID 1e837d55af4d499798b7f97c4eef351d
+Type Gun
+Rarity Epic
+Useable Gun
+Slot Secondary
+ID 31634
+
+Size_X 2
+Size_Y 2
+Size_Z 0.5
+
+Sight 31636
+Magazine 31635
+Tactical 1008
+
+Ammo_Min 1
+Ammo_Max 5
+
+Safety
+Semi
+
+Caliber 31634
+
+Range 300
+Firerate 50
+Action Trigger
+
+Player_Damage 0
+Player_Leg_Multiplier 0.6
+Player_Arm_Multiplier 0.6
+Player_Spine_Multiplier 0.8
+Player_Skull_Multiplier 1.1
+
+Zombie_Damage 0
+Zombie_Leg_Multiplier 0.3
+Zombie_Arm_Multiplier 0.3
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.1
+
+Animal_Damage 0
+Animal_Leg_Multiplier 0.6
+Animal_Spine_Multiplier 0.8
+Animal_Skull_Multiplier 1.1
+
+Barricade_Damage 0
+Structure_Damage 0
+Vehicle_Damage 0
+Resource_Damage 0
+Object_Damage 0
+
+
+Spread_Aim 0.001
+Spread_Hip 0.1
+
+Ballistic_Steps 24
+Ballistic_Travel 12.5
+Ballistic_Drop 0

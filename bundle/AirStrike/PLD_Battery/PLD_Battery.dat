@@ -1,0 +1,20 @@
+GUID 65ef285eceb94cce8ff45d6e114b2519
+Type Magazine
+Rarity Uncommon
+ID 31635
+
+Size_X 1
+Size_Y 1
+Size_Z 0.25
+
+Amount 5
+Count_Min 3
+Count_Max 5
+Explosion 31636
+Explosive
+
+Calibers 1
+Caliber_0 31634
+
+
+Delete_Empty

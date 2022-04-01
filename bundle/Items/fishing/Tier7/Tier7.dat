@@ -1,0 +1,21 @@
+GUID 5ef63c77668a4c73b0fbb7c078eb8c2c
+Type Fisher
+Rarity Mythical
+Useable Fisher
+ID 36230
+
+Size_X 3
+Size_Y 1
+Size_Z 0.25
+
+Backward
+
+Reward_ID 60067
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59732
+Blueprint_0_Supply_0_Amount 2
+Blueprint_0_Build 27
+Exclude_From_Master_Bundle

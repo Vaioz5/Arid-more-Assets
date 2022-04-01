@@ -1,0 +1,57 @@
+GUID 9a0222e339944e8480eff23084b029d8
+Type Vehicle
+Rarity Epic
+ID 60062
+
+Speed_Min -4
+Speed_Max 0
+
+Steer_Min 20
+Steer_Max 40
+
+Brake 24
+
+Fuel_Min 5000
+Fuel_Max 5000
+Fuel 5000
+
+Health_Min 37
+Health_Max 40
+Health 40
+
+Exit 1.5
+
+Explosion_Min_Force_X -16
+Explosion_Min_Force_Y 128
+Explosion_Min_Force_Z -16
+Explosion_Max_Force_X 16
+Explosion_Max_Force_Y 128
+Explosion_Max_Force_Z 16
+
+Bicycle
+Bicycle_Anim_Speed 0
+Stamina_Boost 0.6
+Stamina_Powered
+
+Trunk_Storage_X 4
+Trunk_Storage_Y 2
+
+Traction
+Crawler
+Tires_Invulnerable
+Bumper_Multiplier 0
+
+Turrets 1
+Turret_0_Seat_Index 0
+Turret_0_Item_ID 41114
+Turret_0_Yaw_Min -120
+Turret_0_Yaw_Max 120
+Turret_0_Pitch_Min 20
+Turret_0_Pitch_Max 120
+
+Drops_Table_ID 60064
+Drops_Min 1
+Drops_Max 1
+
+Should_Spawn_Seat_Capsules true
+Exclude_From_Master_Bundle

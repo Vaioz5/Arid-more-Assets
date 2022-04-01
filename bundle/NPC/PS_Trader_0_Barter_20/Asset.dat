@@ -1,0 +1,28 @@
+GUID 85c0fda5fa1a4a2c9eefed8a07dcfea9
+
+Type Quest
+ID 60071
+
+Conditions 3
+Condition_0_Type Item
+Condition_0_ID 59423
+Condition_0_Amount 1
+Condition_0_Reset
+
+Condition_1_Type Item
+Condition_1_ID 59314
+Condition_1_Amount 2
+Condition_1_Reset
+
+Condition_2_Type Kills_Zombie
+Condition_2_Zombie None
+Condition_2_ID 60071
+Condition_2_Value 200
+
+Rewards 2
+Reward_0_Type Item
+Reward_0_ID 60059
+Reward_0_Amount 1
+Reward_1_Type Item
+Reward_1_ID 60061
+Reward_1_Amount 2

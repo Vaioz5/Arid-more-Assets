@@ -1,9 +1,9 @@
-GUID a4bbf35b0c8a49879747c0463aa1f834
+GUID 5703f2ca6d2b4abe972bf9b7b87c02e7
 Type Barricade
 Rarity Legendary
 Useable Barricade
 Build Vehicle
-ID 60053
+ID 60069
 
 Size_X 1
 Size_Y 2
@@ -13,15 +13,16 @@ Range 10
 Radius 0.5
 Offset 1.25
 
-Explosion 31201
-
+Explosion 59026
 Blueprints 1
 Blueprint_0_Type Utilities
 Blueprint_0_Supplies 2
 Blueprint_0_Supply_0_ID 59725
-Blueprint_0_Supply_0_Amount 7
+Blueprint_0_Supply_0_Amount 5
 Blueprint_0_Supply_1_ID 59285
 Blueprint_0_Supply_1_Amount 1
 Blueprint_0_Build 27
+Bypass_Hash_Verification
+Exclude_From_Master_Bundle
 Bypass_Hash_Verification
 Exclude_From_Master_Bundle

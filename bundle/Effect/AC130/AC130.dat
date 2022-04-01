@@ -1,0 +1,10 @@
+GUID 1f639c7d463b41b7a582eabea155fdd3
+Type Effect
+ID 31634
+
+Lifetime 70
+
+Asset_Bundle_Version 3
+Relevant_Distance 5000
+Spawn_On_Dedicated_Server
+Should_Play_Anims_On_Dedicated_Server true
