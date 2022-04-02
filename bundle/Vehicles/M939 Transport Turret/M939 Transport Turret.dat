@@ -1,0 +1,47 @@
+GUID 9463ff441c6f45aa98cdad547b0734af
+Type Vehicle
+Rarity Epic
+ID 60074
+
+Speed_Min -8
+Speed_Max 16
+
+Steer_Min 12
+Steer_Max 28
+
+Brake 40
+
+Fuel_Min 200
+Fuel_Max 400
+Fuel 2000
+
+Health_Min 350
+Health_Max 450
+Health 650
+
+Traction
+
+Cam_Follow_Distance 10
+Cam_Driver_Offset -0.1
+Cam_Passenger_Offset -0.1
+
+Exit 4
+
+Trunk_Storage_X 8
+Trunk_Storage_Y 16
+
+Drops_Table_ID 59015
+Drops_Min 10
+Drops_Max 22
+
+
+Explosion 20
+
+Turrets 1
+Turret_0_Seat_Index 1
+Turret_0_Item_ID 60073
+Turret_0_Yaw_Min -80
+Turret_0_Yaw_Max 80
+Turret_0_Pitch_Min 30
+Turret_0_Pitch_Max 120
+

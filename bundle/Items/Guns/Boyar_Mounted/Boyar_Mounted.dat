@@ -15,6 +15,12 @@ Auto
 
 Caliber 4111
 
+Hook_Sight
+
+Attachment_Calibers 2
+Attachment_Caliber_0 58905
+Attachment_Caliber_1 58906
+
 Range 200
 Firerate 5
 Action Trigger

@@ -1,0 +1,61 @@
+GUID f5c0b87976874d17a8f91102460eec92
+Type Gun
+Rarity Legendary
+Useable Gun
+Slot Primary
+ID 60073
+
+Size_X 1
+Size_Y 1
+Size_Z 0.38
+Size2_Z 0.75
+
+Magazine 59424
+
+Ammo_Min 50
+Ammo_Max 72
+
+Auto
+
+Magazine_Calibers 1
+Magazine_Caliber_0 59422
+
+Range 350
+Firerate 4
+Action Trigger
+
+Player_Damage 30
+Player_Leg_Multiplier 0.9
+Player_Arm_Multiplier 0.9
+Player_Spine_Multiplier 2.4
+Player_Skull_Multiplier 1.6
+
+Zombie_Damage 60
+Zombie_Leg_Multiplier 0.7
+Zombie_Arm_Multiplier 0.9
+Zombie_Spine_Multiplier 0.6
+Zombie_Skull_Multiplier 1.9
+
+Barricade_Damage 30
+Structure_Damage 60
+Vehicle_Damage 15
+Resource_Damage 40
+Object_Damage 40
+
+Invulnerable
+
+Spread_Aim 0.05
+Spread_Hip 0.025
+
+Ballistic_Steps 0
+Ballistic_Travel 25
+Ballistic_Drop 0
+
+Muzzle 59001
+
+Shell 59004
+
+Reload_Time 1.5
+Turret
+
+Exclude_From_Master_Bundle

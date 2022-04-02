@@ -55,3 +55,17 @@ Spread_Hip 0.1
 Ballistic_Steps 24
 Ballistic_Travel 12.5
 Ballistic_Drop 0
+
+Blueprints 1
+Blueprint_0_Type Tool
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59871
+Blueprint_0_Outputs 3
+Blueprint_0_Output_0_ID 59028
+Blueprint_0_Output_0_Amount 2
+Blueprint_0_Output_1_ID 59016
+Blueprint_0_Output_1_Amount 3
+Blueprint_0_Output_2_ID 59017
+Blueprint_0_Output_2_Amount 1
+Blueprint_0_Tool 59004
+Blueprint_0_Build 27

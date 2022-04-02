@@ -14,11 +14,13 @@ Sight 131
 Magazine 60061
 
 Hook_Sight
-Hook_Tactical
-Hook_Grip
 
 Ammo_Min 40
 Ammo_Max 47
+
+Attachment_Calibers 2
+Attachment_Caliber_0 58905
+Attachment_Caliber_1 58906
 
 Safety
 Auto
@@ -78,20 +80,19 @@ Muzzle 3
 
 Blueprints 2
 Blueprint_0_Type Repair
-Blueprint_0_Supply_0_ID 67
-Blueprint_0_Supply_0_Amount 5
-Blueprint_0_Tool 76
-Blueprint_0_Level 1
-Blueprint_0_Skill Repair
+Blueprint_0_Supplies 1
+Blueprint_0_Supply_0_ID 59659
+Blueprint_0_Supply_0_Amount 3
 Blueprint_0_Build 27
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 41116
+Blueprint_1_Supply_0_ID 60059
 Blueprint_1_Outputs 2
-Blueprint_1_Output_0_ID 67
-Blueprint_1_Output_0_Amount 3
-Blueprint_1_Output_1_ID 61
-Blueprint_1_Output_1_Amount 1
+Blueprint_1_Output_0_ID 59010
+Blueprint_1_Output_0_Amount 2
+Blueprint_1_Output_1_ID 59262
+Blueprint_1_Output_1_Amount 4
+Blueprint_1_Tool 59004
 Blueprint_1_Build 27
 
 Reload_Time 2
