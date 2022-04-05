@@ -3,7 +3,7 @@ GUID 95325a2b51814b85850877bdc18d4fc3
 Type Spawn
 ID 60070
 
-Tables 18
+Tables 20
 Table_0_Asset_ID 60059
 Table_0_Weight 5
 Table_1_Asset_ID 59907
@@ -40,3 +40,8 @@ Table_16_Spawn_ID 59318
 Table_16_Weight 40
 Table_17_Spawn_ID 59205
 Table_17_Weight 20
+Table_18_Spawn_ID 59183
+Table_18_Weight 20
+Table_19_Asset_ID 59834 
+Table_19_Weight 5
+

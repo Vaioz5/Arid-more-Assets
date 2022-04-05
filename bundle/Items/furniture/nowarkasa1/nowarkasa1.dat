@@ -1,0 +1,34 @@
+GUID 04d3ee054d6246119764a49ba74f1c25
+Type Storage
+Rarity Epic
+Useable Barricade
+Build Storage
+ID 60076
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Health 350
+Range 4
+Radius 0.5
+Offset 0.75
+
+Storage_X 12
+Storage_Y 16
+
+Explosion 29
+Vulnerable
+
+Blueprints 1
+Blueprint_0_Type Furniture
+Blueprint_0_Supplies 3
+Blueprint_0_Supply_0_ID 59893
+Blueprint_0_Supply_0_Amount 6
+Blueprint_0_Supply_1_ID 59010
+Blueprint_0_Supply_1_Amount 1
+Blueprint_0_Supply_2_ID 59000
+Blueprint_0_Supply_2_Amount 2
+Blueprint_0_Build 27
+
+Should_Close_When_Outside_Range true

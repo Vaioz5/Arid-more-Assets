@@ -14,11 +14,10 @@ Condition_1_ID 59314
 Condition_1_Amount 3
 Condition_1_Reset
 
-Condition_2_Type Kills_Zombie
-Condition_2_Zombie None
-Condition_2_ID 60071
-Condition_2_Value 200
-Condition_2_Nav 2
+Condition_2_Type Item
+Condition_2_ID 59322
+Condition_2_Amount 3
+Condition_2_Reset
 
 Rewards 2
 Reward_0_Type Item

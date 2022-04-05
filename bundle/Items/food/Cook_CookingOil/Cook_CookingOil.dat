@@ -1,15 +1,16 @@
-GUID 0eed91028ee446b6b9840721ac7aa4a2
+GUID 7ddd7ba91c7d4689919bc38457f2d6ba
 Type Water
-Rarity Common
 Useable Consumeable
 ID 55050
 
 Size_X 1
-Size_Y 2
-Size_Z 0.6
+Size_Y 1
+Size_Z 0.4
 
-Water 10
-Virus 35
+Quality_Max 50
+
+Water 20
+Virus 50
 
 Blueprints 1
 Blueprint_0_Type Supply

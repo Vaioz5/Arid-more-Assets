@@ -1,14 +1,14 @@
-GUID b51b4d6f720640b88bd1459f0739572d
+GUID c8bdf45072304ebea3707d546aab86e8
 Type Food
-Rarity Common
 Useable Consumeable
 ID 55170
 
 Size_X 1
 Size_Y 1
-Size_Z 0.4
+Size_Z 0.26
 
-Food 20
+Health 5
+Food 40
 
 Blueprints 1
 Blueprint_0_Type Supply
