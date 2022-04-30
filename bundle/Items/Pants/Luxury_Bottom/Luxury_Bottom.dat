@@ -1,0 +1,25 @@
+GUID 13c0f1400835482b9870d49e9024bba5
+Type Pants
+Useable Clothing
+ID 60094
+
+Size_X 2
+Size_Y 2
+Size_Z 0.65
+
+Width 4
+Height 2
+
+Armor 0.95
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 60094
+Blueprint_0_Product 59002
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59002
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 32

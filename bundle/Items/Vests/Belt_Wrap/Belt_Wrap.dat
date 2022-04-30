@@ -1,0 +1,27 @@
+GUID 0eb596e56316431195755ec872d4f5ea
+Type Vest
+Rarity Uncommon
+Useable Clothing
+ID 60089
+
+Size_X 2
+Size_Y 1
+Size_Z 0.6
+
+Width 3
+Height 2
+
+Blueprints 2
+Blueprint_0_Type Apparel
+Blueprint_0_Supply_0_ID 60089
+Blueprint_0_Product 59000
+Blueprint_0_Products 3
+Blueprint_0_Build 32
+Blueprint_1_Type Repair
+Blueprint_1_Supplies 1
+Blueprint_1_Supply_0_ID 59000
+Blueprint_1_Supply_0_Amount 3
+Blueprint_1_Build 32
+
+Exclude_From_Master_Bundle
+Asset_Bundle_Version 2

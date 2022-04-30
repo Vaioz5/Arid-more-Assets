@@ -1,0 +1,11 @@
+GUID 06134b9480374817ac723ee798dd68df
+Type Effect
+ID 60080
+
+Lifetime 18
+Lifetime_Spread 0
+
+Splatter_Liquid
+Splatter_Temperature Burning
+Splatter_Lifetime 18
+Splatter_Lifetime_Spread 0
