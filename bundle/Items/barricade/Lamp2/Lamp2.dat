@@ -3,7 +3,7 @@ Type Barricade
 Rarity Uncommon
 Useable Barricade
 Build Torch
-ID 60051
+ID 70051
 
 Asset_Bundle_Version 2
 
@@ -21,13 +21,13 @@ Vulnerable
 
 Blueprints 2
 Blueprint_0_Type Utilities
-Blueprint_0_Supply_0_ID 60050
+Blueprint_0_Supply_0_ID 70050
 Blueprint_0_Supply_0_Amount 1
 Blueprint_0_Build 27
 
 Blueprint_1_Type Utilities
 Blueprint_1_Supplies 3
-Blueprint_1_Supply_0_ID 60014
+Blueprint_1_Supply_0_ID 70014
 Blueprint_1_Supply_0_Amount 1
 Blueprint_1_Supply_1_ID 59001
 Blueprint_1_Supply_1_Amount 5

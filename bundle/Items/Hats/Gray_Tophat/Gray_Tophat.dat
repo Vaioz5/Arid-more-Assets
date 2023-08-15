@@ -2,7 +2,7 @@ GUID 7da98635b7f149a9816245904958e13b
 Type Hat
 Rarity Uncommon
 Useable Clothing
-ID 60098
+ID 70098
 
 Size_X 2
 Size_Y 2
@@ -14,7 +14,7 @@ Armor 0.95
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 60098
+Blueprint_0_Supply_0_ID 70098
 Blueprint_0_Product 59002
 Blueprint_0_Products 5
 Blueprint_0_Build 32

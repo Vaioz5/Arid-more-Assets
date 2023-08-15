@@ -1,7 +1,7 @@
 GUID 85c0fda5fa1a4a2c9eefed8a07dcfea9
 
 Type Quest
-ID 60071
+ID 70071
 
 Conditions 3
 Condition_0_Type Item
@@ -21,8 +21,5 @@ Condition_2_Reset
 
 Rewards 2
 Reward_0_Type Item
-Reward_0_ID 60059
+Reward_0_ID 60007
 Reward_0_Amount 1
-Reward_1_Type Item
-Reward_1_ID 60061
-Reward_1_Amount 2

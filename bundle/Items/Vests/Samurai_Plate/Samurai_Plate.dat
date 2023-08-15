@@ -2,7 +2,7 @@ GUID 544164d6e39343f18be45d57ff745a79
 Type Vest
 Rarity Epic
 Useable Clothing
-ID 60091
+ID 70091
 
 Size_X 2
 Size_Y 2
@@ -15,7 +15,7 @@ Armor 0.4
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 60091
+Blueprint_0_Supply_0_ID 70091
 Blueprint_0_Product 59000
 Blueprint_0_Products 3
 Blueprint_0_Build 32

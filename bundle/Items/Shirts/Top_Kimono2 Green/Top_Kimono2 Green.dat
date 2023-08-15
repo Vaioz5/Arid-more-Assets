@@ -2,7 +2,7 @@ GUID e338e3c56bcc4be69acc3fc9555d85c5
 Type Shirt
 Rarity Rare
 Useable Clothing
-ID 60087
+ID 70087
 
 Size_X 3
 Size_Y 2
@@ -15,7 +15,7 @@ Armor 0.95
 
 Blueprints 3
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 60087
+Blueprint_0_Supply_0_ID 70087
 Blueprint_0_Product 59002
 Blueprint_0_Products 3
 Blueprint_0_Build 32
@@ -30,7 +30,7 @@ Blueprint_2_Supply_0_ID 59564
 Blueprint_2_Supply_0_Amount 3
 Blueprint_2_Supply_1_ID 59574
 Blueprint_2_Supply_1_Amount 1
-Blueprint_2_Product 60087
+Blueprint_2_Product 70087
 Blueprint_2_Build 32
 Exclude_From_Master_Bundle
 Asset_Bundle_Version 2

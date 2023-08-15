@@ -3,7 +3,7 @@ Type Melee
 Rarity Epic
 Useable Melee
 Slot Secondary
-ID 60077
+ID 70077
 
 Size_X 1
 Size_Y 3
@@ -61,7 +61,7 @@ Blueprint_1_Build 27
 
 Blueprint_1_Type Tool
 Blueprint_1_Supplies 1
-Blueprint_1_Supply_0_ID 60077
+Blueprint_1_Supply_0_ID 70077
 Blueprint_1_Product 59000
 Blueprint_1_Products 4
 Blueprint_1_Build 27

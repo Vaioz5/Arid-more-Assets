@@ -2,7 +2,7 @@ GUID 19318f8b865f4f55856a0972c08a5ff5
 Type Vest
 Rarity Rare
 Useable Clothing
-ID 60090
+ID 70090
 
 Size_X 2
 Size_Y 2
@@ -13,7 +13,7 @@ Height 3
 
 Blueprints 3
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 60090
+Blueprint_0_Supply_0_ID 70090
 Blueprint_0_Product 59002
 Blueprint_0_Products 3
 Blueprint_0_Build 32
@@ -28,7 +28,7 @@ Blueprint_2_Supply_0_ID 59564
 Blueprint_2_Supply_0_Amount 3
 Blueprint_2_Supply_1_ID 59574
 Blueprint_2_Supply_1_Amount 1
-Blueprint_2_Product 60090
+Blueprint_2_Product 70090
 Blueprint_2_Build 32
 Exclude_From_Master_Bundle
 Asset_Bundle_Version 2

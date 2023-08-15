@@ -2,7 +2,7 @@ GUID f6f5191712fa431aadfbc538af127ba9
 Type Hat
 Rarity Uncommon
 Useable Clothing
-ID 60099
+ID 70099
 
 Size_X 2
 Size_Y 2
@@ -13,7 +13,7 @@ Beard
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 60099
+Blueprint_0_Supply_0_ID 70099
 Blueprint_0_Product 59002
 Blueprint_0_Products 5
 Blueprint_0_Build 32

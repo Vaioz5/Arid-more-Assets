@@ -3,7 +3,7 @@ Type Barricade
 Rarity Rare
 Useable Barricade
 Build Torch
-ID 60015
+ID 70015
 
 Size_X 1
 Size_Y 2
@@ -18,9 +18,9 @@ Explosion 36
 Blueprints 1
 Blueprint_0_Type Utilities
 Blueprint_0_Supplies 2
-Blueprint_0_Supply_0_ID 60014
+Blueprint_0_Supply_0_ID 70014
 Blueprint_0_Supply_0_Amount 1
-Blueprint_0_Supply_1_ID 60035
+Blueprint_0_Supply_1_ID 70035
 Blueprint_0_Supply_1_Amount 1
 Blueprint_0_Build 27
 

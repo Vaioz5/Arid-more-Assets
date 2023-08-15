@@ -1,7 +1,7 @@
 GUID 13c0f1400835482b9870d49e9024bba5
 Type Pants
 Useable Clothing
-ID 60094
+ID 70094
 
 Size_X 2
 Size_Y 2
@@ -14,7 +14,7 @@ Armor 0.95
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 60094
+Blueprint_0_Supply_0_ID 70094
 Blueprint_0_Product 59002
 Blueprint_0_Products 3
 Blueprint_0_Build 32

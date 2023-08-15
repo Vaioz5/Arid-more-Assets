@@ -2,7 +2,7 @@ GUID 89dc2c19ff9e4385aabb04bead8ae090
 Type Hat
 Rarity Rare
 Useable Clothing
-ID 60092
+ID 70092
 
 Size_X 3
 Size_Y 2
@@ -15,7 +15,7 @@ Beard
 Armor 0.3
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 60092
+Blueprint_0_Supply_0_ID 70092
 Blueprint_0_Product 59002
 Blueprint_0_Products 3
 Blueprint_0_Build 32

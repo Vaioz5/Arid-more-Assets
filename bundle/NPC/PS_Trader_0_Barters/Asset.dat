@@ -776,13 +776,13 @@ Response_56_Condition_1_Value True
 Response_56_Condition_1_Logic Equal
 Response_56_Dialogue 59005
 //t5_ama
-Response_57_Quest 60071
+Response_57_Quest 70071
 Response_57_Rewards 1
 Response_57_Reward_0_Type Quest
-Response_57_Reward_0_ID 60071
+Response_57_Reward_0_ID 70071
 Response_57_Conditions 2
 Response_57_Condition_0_Type Quest
-Response_57_Condition_0_ID 60071
+Response_57_Condition_0_ID 70071
 Response_57_Condition_0_Status None
 Response_57_Condition_0_Logic Equal
 Response_57_Condition_1_Type Flag_Bool
@@ -792,21 +792,21 @@ Response_57_Condition_1_Logic Equal
 Response_57_Dialogue 59005
 
 Response_58_Dialogue 59003
-Response_58_Quest 60071
+Response_58_Quest 70071
 Response_58_Conditions 1
 Response_58_Condition_0_Type Quest
-Response_58_Condition_0_ID 60071
+Response_58_Condition_0_ID 70071
 Response_58_Condition_0_Status Ready
 Response_58_Condition_0_Logic Equal
 Response_58_Condition_0_Reset
 
-Response_59_Quest 60071
+Response_59_Quest 70071
 Response_59_Rewards 1
 Response_59_Reward_0_Type Quest
-Response_59_Reward_0_ID 60071
+Response_59_Reward_0_ID 70071
 Response_59_Conditions 2
 Response_59_Condition_0_Type Quest
-Response_59_Condition_0_ID 60071
+Response_59_Condition_0_ID 70071
 Response_59_Condition_0_Status Completed
 Response_59_Condition_0_Logic Equal
 Response_59_Condition_1_Type Flag_Bool

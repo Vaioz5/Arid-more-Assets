@@ -2,7 +2,7 @@ GUID 71f8215e481d4ba8987a3341d149820a
 Type Hat
 Rarity Uncommon
 Useable Clothing
-ID 60078
+ID 70078
 
 Size_X 2
 Size_Y 2
@@ -17,7 +17,7 @@ Height 2
 
 Blueprints 3
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 60078
+Blueprint_0_Supply_0_ID 70078
 Blueprint_0_Product 59002
 Blueprint_0_Products 5
 Blueprint_0_Build 32
@@ -33,7 +33,7 @@ Blueprint_2_Supply_0_ID 59564
 Blueprint_2_Supply_0_Amount 2
 Blueprint_2_Supply_1_ID 59574
 Blueprint_2_Supply_1_Amount 1
-Blueprint_2_Product 60078
+Blueprint_2_Product 70078
 Blueprint_2_Build 32
 
 
