@@ -1,7 +1,7 @@
-GUID 600b3bd6671448e6b5e552ec722073e0
+GUID 700b3bd6671448e6b5e552ec722073e0
 Type Mask
 Useable Clothing
-ID 60097
+ID 70097
 
 Size_X 1
 Size_Y 1
@@ -11,7 +11,7 @@ Hair
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 60097
+Blueprint_0_Supply_0_ID 70097
 Blueprint_0_Product 59002
 Blueprint_0_Products 5
 Blueprint_0_Build 32

@@ -1,7 +1,7 @@
 GUID 03fe29849d7347d89cf649ec19b46ce7
 Type Shirt
 Useable Clothing
-ID 60093
+ID 70093
 
 Size_X 3
 Size_Y 2
@@ -14,7 +14,7 @@ Armor 0.95
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 6009
+Blueprint_0_Supply_0_ID 7009
 Blueprint_0_Product 59002
 Blueprint_0_Products 3
 Blueprint_0_Build 32

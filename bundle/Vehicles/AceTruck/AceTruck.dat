@@ -1,7 +1,7 @@
 GUID 5b20121ae7de419b9381a8ac5675d0f6
 Type Vehicle
 Rarity Legendary
-ID 60072
+ID 70072
 
 Speed_Min -5
 Speed_Max 12
@@ -17,7 +17,7 @@ Fuel 3500
 
 Health_Min 400
 Health_Max 500
-Health 600
+Health 700
 
 Traction
 
@@ -34,7 +34,7 @@ Tires_Invulnerable
 
 Turrets 1
 Turret_0_Seat_Index 1
-Turret_0_Item_ID 60073
+Turret_0_Item_ID 70073
 Turret_0_Yaw_Min -35
 Turret_0_Yaw_Max 35
 Turret_0_Pitch_Min 50

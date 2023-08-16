@@ -3,13 +3,13 @@ Type Storage
 Rarity Epic
 Useable Barricade
 Build Storage_Wall
-ID 60075
+ID 70075
 
 Size_X 2
 Size_Y 2
 Size_Z 0.6
 
-Health 600
+Health 700
 Range 3.5
 Radius 0.5
 Offset 0.25

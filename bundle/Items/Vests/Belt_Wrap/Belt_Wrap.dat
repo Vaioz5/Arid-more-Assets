@@ -2,7 +2,7 @@ GUID 0eb596e56316431195755ec872d4f5ea
 Type Vest
 Rarity Uncommon
 Useable Clothing
-ID 60089
+ID 70089
 
 Size_X 2
 Size_Y 1
@@ -13,7 +13,7 @@ Height 2
 
 Blueprints 2
 Blueprint_0_Type Apparel
-Blueprint_0_Supply_0_ID 60089
+Blueprint_0_Supply_0_ID 70089
 Blueprint_0_Product 59000
 Blueprint_0_Products 3
 Blueprint_0_Build 32
